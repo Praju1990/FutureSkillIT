@@ -35,16 +35,25 @@ public class Data_type {
 		// char
 		char l = 'a';
 		char o = '1';
-		char p = ' ';
+		char p =' ';
 
 		//boolean
-		boolean is_java = true;
-		boolean is_python = false;
+	boolean is_java =true;
+	boolean is_python = false;
 
 		//collection of char
-		String s = "Hello i am java";
-		String r = "true";
-		String w = "1243";
+		String s = "Hello I am java";
+		String r = "1234";
+		String w	= "true";
+
+		System.out.println(o);
+
+
+
+
+
+
+
 
 
 

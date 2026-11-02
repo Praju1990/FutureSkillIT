@@ -1,4 +1,4 @@
-package Daywise_Assingments;
+package Assingments;
 
 import java.util.Scanner;
 

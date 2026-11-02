@@ -14,8 +14,8 @@ public class Var_types_local{
           }
          */
 
-         int local_var = 9869;
-         System.out.println(local_var);
+        int local_var = 9869;
+        System.out.println(local_var);
 
 
         {
@@ -36,7 +36,7 @@ public class Var_types_local{
  */
 
 class vartype_2{
-//    static var
+    //    static var
     static int a = 89;
     static void main(String[] args) {
         System.out.println(a);//89
@@ -49,14 +49,3 @@ class vartype_2{
 //non static
 // static and non-static in diff class
 //keywords
-
-
-
-
-
-
-
-
-
-
-
